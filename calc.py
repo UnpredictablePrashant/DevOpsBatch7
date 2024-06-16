@@ -1,1 +1,2 @@
 print('Calculating')
+print('calc')
